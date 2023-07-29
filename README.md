@@ -20,4 +20,4 @@ Database: MongoDB
 
 Version Control: Git, GitHub
 
-Thank you for using the Expense Tracker App! We hope it helps you manage your finances effectively. Happy tracking!
+Thank you for using the Expense Tracker App! I hope it helps you manage your finances effectively. Happy tracking!
