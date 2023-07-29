@@ -1,6 +1,7 @@
 Welcome to the Expense Tracker App! This application helps users track their expenses and income in a user-friendly and efficient way. It allows users to add transactions, view their transaction history, and visualize their financial activities through insightful charts.
 
 Features
+
 Dashboard: The dashboard provides an overview of all transactions, clearly categorized into income and expense sections.
 
 Transaction History: Users can view their recent transactions, including titles, amounts, and transaction types (income or expense).
