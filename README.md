@@ -11,9 +11,13 @@ Income and Expense: Easily add new income and expense transactions with customiz
 Chart Tracking: A dynamic chart offers users a visual representation of their income and expense trends over time.
 
 Technologies Used
+
 Frontend: ReactJS, HTML, CSS, TypeScript, JavaScript
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Version Control: Git, GitHub
 
 Thank you for using the Expense Tracker App! We hope it helps you manage your finances effectively. Happy tracking!
